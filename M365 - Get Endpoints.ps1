@@ -1,5 +1,5 @@
 <#
-Name: Get M365 Endpoints.ps1
+Name: M365 - Get Endpoints.ps1
 
 This script is used to read the JSON File for the Microsoft 365 Endpoints published by Microsoft
 
